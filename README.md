@@ -27,6 +27,7 @@ Despite strong sales volume, the business experiences inconsistent profitability
 5. Business Insights & Recommendations
 
 ## Dashboard Preview
+https://github.com/Tejas17134/Sales-Performance-Customer-Insights/blob/main/Sales_Dashboard.png
 
 
 ##  Key Insights
